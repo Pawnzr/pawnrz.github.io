@@ -28,6 +28,7 @@ github_username: "<github_username>"
 facebook_username: "<facebook_username>"
 twitter_username: "<twitter_username>"
 linkedin_id: "<linkedin_id>"
+theme: jekyll-theme-potato-hacker
 
 # Theme
 # theme: jekyll-theme-potato-hacker                 # Uncomment this
